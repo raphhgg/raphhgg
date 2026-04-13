@@ -1,6 +1,8 @@
 # Hi, I'm Raphael 👋
 
-**🍎 iOS Engineer • 🤖 Building with AI •📍 Based in Brussels**
+- iOS Engineer 🍎  
+- Building with AI 🤖
+- Based in Brussels 🇧🇪
 
 > Exploring AI, agentic coding, and developer tooling after 10 years of experience as iOS Engineer.
 
