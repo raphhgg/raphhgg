@@ -1,8 +1,8 @@
 # Hi, I'm Raphael 👋
 
-- iOS Engineer with 10 years of experience
-- Exploring AI, agentic coding, and developer tooling
-- Based in Brussels
+**🍎 iOS Engineer | 🤖 Building with AI |📍 Based in Brussels**
+
+> Exploring AI, agentic coding, and developer tooling after 10 years of experience as iOS Engineer.
 
 ## Current projects
 
@@ -24,7 +24,7 @@
     <tr>
       <th align="left" width="12%">Name</th>
       <th align="left" width="41%">Description</th>
-      <th align="center" width="7%">Platform</th>
+      <th align="center" width="7%">Platforms</th>
       <th align="left" width="19%">Company</th>
       <th align="left" width="15%">Date</th>
       <th align="center" width="6%">App Store</th>
