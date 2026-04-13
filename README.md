@@ -19,10 +19,10 @@ Currently at **Immoweb**. Previously at **M6Web**, **Bedrock Streaming**, and **
 <table>
   <thead>
     <tr>
-      <th align="left" width="16%">Name</th>
-      <th align="left" width="42%">Description</th>
-      <th align="left" width="20%">Company</th>
-      <th align="left" width="12%">Date</th>
+      <th align="left" width="12%">Name</th>
+      <th align="left" width="41%">Description</th>
+      <th align="left" width="22%">Company</th>
+      <th align="left" width="15%">Date</th>
       <th align="center" width="10%">App Store</th>
     </tr>
   </thead>
