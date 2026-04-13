@@ -1,10 +1,8 @@
 # Hi, I'm Raphael 👋
 
-> iOS Engineer with 10 years of experience. 
-> 
-> Exploring AI, agentic coding, and developer tooling. 
->
-> Based in Brussels.
+- iOS Engineer with 10 years of experience
+- Exploring AI, agentic coding, and developer tooling
+- Based in Brussels
 
 ## Current projects
 
