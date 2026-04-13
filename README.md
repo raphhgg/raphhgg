@@ -1,17 +1,21 @@
 # Hi, I'm Raphael 👋
 
-> iOS Engineer with 10 years of experience. Exploring AI, agentic coding, and developer tooling. Based in Brussels.
+> iOS Engineer with 10 years of experience. 
+> Exploring AI, agentic coding, and developer tooling. 
+> Based in Brussels.
 
-- Currently at **Immoweb**
-- Previously at **SeLoger**, **Bedrock Streaming**, and **M6Web**
-
-## Focus
+## Current projects
 
 - iOS product engineering
 - AI agentic coding
 - Developer tooling
 - Homelab / self-hosted systems
 - Media server infrastructure
+
+## Work Experience 
+
+- Currently at **Immoweb**
+- Previously at **SeLoger**, **Bedrock Streaming**, and **M6Web**
 
 ## Professional Work
 
