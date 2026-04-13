@@ -49,6 +49,13 @@ Currently at **Immoweb**. Previously at **M6Web**, **Bedrock Streaming**, and **
       <td align="center"><a href="https://apps.apple.com/be/app/tec/id1438618535"><img src="assets/app-icons/tec.webp" alt="TEC icon" width="40" /></a></td>
     </tr>
     <tr>
+      <td><a href="https://apps.apple.com/be/app/winamp/id1664497725">Winamp</a></td>
+      <td>The new Winamp player brings local music, podcasts, radio stations, and fan content into one listening experience.</td>
+      <td><a href="https://www.tapptic.com"><img src="assets/company-logos/tapptic.svg" alt="Tapptic" /></a></td>
+      <td nowrap>2021-2021</td>
+      <td align="center"><a href="https://apps.apple.com/be/app/winamp/id1664497725"><img src="assets/app-icons/winamp.webp" alt="Winamp icon" width="40" /></a></td>
+    </tr>
+    <tr>
       <td><a href="https://apps.apple.com/de/app/immowelt-immobilien-suche/id354119842">immowelt</a></td>
       <td>Award-winning property platform for renting, buying, and listing homes across Germany and Austria.</td>
       <td><a href="https://www.aviv-group.com"><img src="assets/company-logos/aviv-group.svg" alt="AVIV Group" /></a></td>
@@ -66,7 +73,7 @@ Currently at **Immoweb**. Previously at **M6Web**, **Bedrock Streaming**, and **
       <td><a href="https://apps.apple.com/us/app/immoweb/id420654412">Immoweb</a></td>
       <td>Belgium's leading real estate platform for buying, selling, and renting homes at scale.</td>
       <td><a href="https://www.immoweb.be"><img src="assets/company-logos/immoweb.svg" alt="Immoweb" /></a></td>
-      <td nowrap>2025-Now</td>
+      <td nowrap>2022-Now</td>
       <td align="center"><a href="https://apps.apple.com/us/app/immoweb/id420654412"><img src="assets/app-icons/immoweb.webp" alt="Immoweb icon" width="40" /></a></td>
     </tr>
   </tbody>
