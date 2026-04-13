@@ -1,11 +1,11 @@
 # Hi, I'm Raphael 👋
 
-> Been working 10 years as iOS Engineer 🍎 
-> Now building with AI 🤖 
-> Based in Brussels 📍
+iOS Engineer with 10 years of experience 🍎  
+Exploring AI, agentic coding, and developer tooling 🤖  
+Based in Brussels 📍
 
-- Currently at **Immoweb** 🏠
-- Previously at **SeLoger**., **Bedrock Streaming** and **M6Web**.
+- Currently at **Immoweb**
+- Previously at **SeLoger**, **Bedrock Streaming**, and **M6Web**
 
 ## Focus
 
@@ -82,7 +82,6 @@
       <td>Belgium's leading real estate platform for buying, selling, and renting homes at scale.</td>
       <td align="center"><img src="assets/platform-icons/iphone.svg" alt="iPhone" title="iOS" /> <img src="assets/platform-icons/ipad.svg" alt="iPad" title="iPadOS" /></td>
       <td><a href="https://www.aviv-group.com"><img src="assets/company-logos/aviv-group.svg" alt="AVIV Group" /></a> <a href="https://www.immoweb.be"><img src="assets/company-logos/immoweb.svg" alt="Immoweb" /></a></td>
-      <td align="center"><img src="assets/platform-icons/iphone.svg" alt="iPhone" title="iOS" /> <img src="assets/platform-icons/ipad.svg" alt="iPad" title="iPadOS" /></td>
       <td nowrap>2022-Now</td>
       <td align="center"><a href="https://apps.apple.com/us/app/immoweb/id420654412"><img src="assets/app-icons/immoweb.webp" alt="Immoweb icon" width="40" /></a></td>
     </tr>
