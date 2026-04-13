@@ -72,7 +72,7 @@ Currently at **Immoweb**. Previously at **M6Web**, **Bedrock Streaming**, and **
     <tr>
       <td><a href="https://apps.apple.com/us/app/immoweb/id420654412">Immoweb</a></td>
       <td>Belgium's leading real estate platform for buying, selling, and renting homes at scale.</td>
-      <td><a href="https://www.immoweb.be"><img src="assets/company-logos/immoweb.svg" alt="Immoweb" /></a></td>
+      <td><a href="https://www.aviv-group.com"><img src="assets/company-logos/aviv-group.svg" alt="AVIV Group" /></a> <a href="https://www.immoweb.be"><img src="assets/company-logos/immoweb.svg" alt="Immoweb" /></a></td>
       <td nowrap>2022-Now</td>
       <td align="center"><a href="https://apps.apple.com/us/app/immoweb/id420654412"><img src="assets/app-icons/immoweb.webp" alt="Immoweb icon" width="40" /></a></td>
     </tr>
