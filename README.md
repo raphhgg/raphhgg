@@ -31,7 +31,7 @@ Currently at **Immoweb**. Previously at **M6Web**, **Bedrock Streaming**, and **
       <td><a href="https://apps.apple.com/fr/app/m6-streaming-tv-replay/id369692259">M6+</a></td>
       <td>France's leading free streaming platform for live TV, replay, podcasts, and exclusive originals.</td>
       <td><a href="https://www.tapptic.com"><img src="assets/company-logos/tapptic.svg" alt="Tapptic" /></a> <a href="https://www.m6web.fr"><img src="assets/company-logos/m6web.svg" alt="M6Web" /></a></td>
-      <td nowrap>2017-2020</td>
+      <td nowrap>2017-2022</td>
       <td align="center"><a href="https://apps.apple.com/fr/app/m6-streaming-tv-replay/id369692259"><img src="assets/app-icons/m6plus.webp" alt="M6+ icon" width="40" /></a></td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@ Currently at **Immoweb**. Previously at **M6Web**, **Bedrock Streaming**, and **
       <td><a href="https://apps.apple.com/be/app/tec/id1438618535">TEC</a></td>
       <td>Wallonia's transit companion for route planning, real-time journeys, and mobile ticketing.</td>
       <td><a href="https://www.tapptic.com"><img src="assets/company-logos/tapptic.svg" alt="Tapptic" /></a></td>
-      <td nowrap>2017-2022</td>
+      <td nowrap>2021-2021</td>
       <td align="center"><a href="https://apps.apple.com/be/app/tec/id1438618535"><img src="assets/app-icons/tec.webp" alt="TEC icon" width="40" /></a></td>
     </tr>
     <tr>
