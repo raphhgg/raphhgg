@@ -1,7 +1,7 @@
 # Hi, I'm Raphael 👋
 
 iOS engineer with 10 years of experience across iPhone, iPad, and tvOS.  
-Built apps used by millions of people, with a focus on interface design and product development at scale.
+Built apps used by millions of people, working on interface design and product development at scale.
 
 Now focused on open source, exploring agentic coding workflows, and building things.
 
