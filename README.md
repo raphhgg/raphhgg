@@ -95,5 +95,6 @@ Some of the products I’ve worked on professionally:
 ## Connect
 
 [![X](https://img.shields.io/badge/-raphh-000000?style=flat&logo=x&logoColor=white)](https://x.com/raphh)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/raaphh11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raphael_Grau-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelgrau/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/raphhgg)
