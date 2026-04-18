@@ -1,21 +1,25 @@
 # Hi, I'm Raphael 👋
 
-> Exploring AI, agentic coding, and developer tooling after 10 years of experience as iOS Engineer.
+iOS engineer with 10 years of experience across iPhone, iPad, and tvOS.  
+Built apps used by millions of people, with a lot of that work focused on interface design and product development at scale.
 
-## Current projects
+Now focused on open source, exploring agentic coding workflows, and building things.
 
-- iOS product engineering
-- AI agentic coding
+## Working On
+
+- Open source projects
+- Agentic coding workflows
+- Product engineering
 - Developer tooling
 - Homelab / self-hosted systems
-- Media server infrastructure
 
-## Work Experience 
+## Worked On
 
-- Currently at **Immoweb**
-- Previously at **SeLoger**, **Bedrock Streaming**, and **M6Web**
+Currently at **Immoweb**. Previously worked on products at **SeLoger**, **immowelt**, **Bedrock Streaming**, **M6Web**, and **Tapptic**.
 
 ## Professional Apps
+
+Some of the products I’ve worked on professionally:
 
 <table>
   <thead>
