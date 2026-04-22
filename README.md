@@ -8,9 +8,9 @@ Now focused on open source, exploring agentic coding workflows, and building thi
 ## Things I'm Building
 
 - [CodexPill](https://github.com/raphhgg/CodexPill) — macOS menubar app for switching Codex accounts and tracking per-account limits
-- `Seal` — proof-oriented validation ecosystem for Apple apps
-- [Checkpoint](https://github.com/raphhgg/Checkpoint) — developer tool / work in progress
+- [Seal](https://github.com/raphhgg/Seal) — proof-oriented validation ecosystem for Apple apps
 - [heimdall](https://github.com/raphhgg/heimdall) — backend for self-hosted media request flows, notifications, and Discord integration
+- [Checkpoint](https://github.com/raphhgg/Checkpoint) — developer tool / work in progress
 
 ## Setup & Infra
 
