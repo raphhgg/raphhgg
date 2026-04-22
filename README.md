@@ -5,17 +5,30 @@ Built apps used by millions of people, working on interface design and product d
 
 Now focused on open source, exploring agentic coding workflows, and building things.
 
-## Working On
+## Things I'm Building
 
-- Open source projects
-- Agentic coding workflows
-- Product engineering
-- Developer tooling
-- Homelab / self-hosted systems
+- [CodexPill](https://github.com/raphhgg/CodexPill) — macOS menubar app for switching Codex accounts and tracking per-account limits
+- `Seal` — proof-oriented validation ecosystem for Apple apps
+- [Checkpoint](https://github.com/raphhgg/Checkpoint) — developer tool / work in progress
+- [heimdall](https://github.com/raphhgg/heimdall) — backend for self-hosted media request flows, notifications, and Discord integration
 
-## Worked On
+## Setup & Infra
 
-Currently at **Immoweb**. Previously worked on products at **SeLoger**, **immowelt**, **Bedrock Streaming**, **M6Web**, and **Tapptic**.
+### Config & Tools
+
+- [agent-standards](https://github.com/raphhgg/agent-standards) — shared agent skills, engineering standards, and workflow rules
+- [dotfiles](https://github.com/raphhgg/dotfiles) — personal dotfiles managed with GNU Stow
+
+### Home Server
+
+- [homelab](https://github.com/raphhgg/homelab) — self-hosted home server Docker Compose stack
+- [homelab-infra](https://github.com/raphhgg/homelab-infra) — infra docs and helper scripts for Proxmox, Zabbix, TrueNAS, NUT, SMART, and storage policies
+- [kometa-config](https://github.com/raphhgg/kometa-config) — Kometa config for collections, metadata, and overlays
+- [wizarr-invite-broker](https://github.com/raphhgg/wizarr-invite-broker) — support tooling around my self-hosted setup
+
+### AI Setup
+
+- [llama-config](https://github.com/raphhgg/llama-config) — llama.cpp presets, launch scripts, and benchmark tooling for the local LLM setup I run
 
 ## Professional Apps
 
