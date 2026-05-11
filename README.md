@@ -102,6 +102,6 @@ Some of the products I’ve worked on professionally:
 ## Connect
 
 [![X](https://img.shields.io/badge/-raphh-000000?style=flat&logo=x&logoColor=white)](https://x.com/raphh)
-[![Email](https://img.shields.io/badge/Email-334155?style=flat&logo=gmail&logoColor=white)](mailto:hi@raphh.me)
+[![Email](https://img.shields.io/badge/Email-334155?style=flat)](mailto:hi@raphh.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelgrau/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/raphhgg)
