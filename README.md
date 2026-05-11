@@ -16,8 +16,8 @@ Now focused on open source, exploring agentic coding workflows and building thin
 ## Home Server
 
 - [homelab](https://github.com/raphhgg/homelab) — self-hosted home server Docker Compose stack
-- [homelab-infra](https://github.com/raphhgg/homelab-infra) — infra docs and helper scripts for Proxmox, Zabbix, TrueNAS, NUT, SMART, and storage policies
-- [kometa-config](https://github.com/raphhgg/kometa-config) — Kometa config for collections, metadata, and overlays
+- [homelab-infra](https://github.com/raphhgg/homelab-infra) — infra docs and helper scripts for Proxmox, Zabbix, TrueNAS and homelab things
+- [kometa-config](https://github.com/raphhgg/kometa-config) — Kometa config for collections, metadata and overlays
 
 ## Config & Tools
 
@@ -102,5 +102,6 @@ Some of the products I’ve worked on professionally:
 ## Connect
 
 [![X](https://img.shields.io/badge/-raphh-000000?style=flat&logo=x&logoColor=white)](https://x.com/raphh)
+[![Email](https://img.shields.io/badge/Email-hi%40raphh.me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hi@raphh.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelgrau/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/raphhgg)
