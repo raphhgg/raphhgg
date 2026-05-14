@@ -1,9 +1,8 @@
 # Hi, I'm Raphael 👋
 
-iOS engineer with 10 years of experience building Apple platform apps.  
-Built apps used by millions of people, working on interface design and product development at scale.
-
-Now focused on open source, exploring agentic coding workflows and building things.
+> iOS engineer with 10 years of experience building Apple platform apps used by millions of people.
+>
+> Now focused on open source, agentic coding workflows and building things.
 
 ## Things I'm Building
 
