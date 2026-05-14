@@ -1,19 +1,19 @@
 # Hi, I'm Raphael 👋
 
-> iOS engineer with 10 years of experience building Apple platform apps used by millions of people.
+> _iOS engineer with 10 years of experience building Apple platform apps used by millions of people._
 >
-> Now focused on open source, agentic coding workflows and building things.
+> _Now focused on open source, agentic coding workflows and building things._
 
 ## Things I'm Building
 
 - [CodexPill](https://github.com/raphhgg/CodexPill) — macOS menu bar app for switching Codex accounts and keeping an eye on usage limits
 
-_Work in progress:_
+_Not ready for release yet:_
 
-- Seal — validation tooling for Apple apps built around structured runtime evidence
-- Kite — Swift-first code metrics CLI for maintainability reviews and agent workflows
-- Maestro — macOS control room for configuring and watching agent-driven development workflows
-- Heimdall — backend for self-hosted media requests, notifications, and server-side automation
+- a validation tool for Apple apps built around structured runtime evidence
+- a Swift-first CLI for code metrics and maintainability reviews
+- a macOS app for configuring and watching agent-driven development workflows
+- a backend for self-hosted media requests, notifications, and server-side automation
 
 ## Home Server
 
