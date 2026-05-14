@@ -8,12 +8,10 @@
 
 - [CodexPill](https://github.com/raphhgg/CodexPill) — macOS menu bar app for switching Codex accounts and keeping an eye on usage limits
 
-_Not ready for release yet:_
+_Work in progress:_
 
-- a validation tool for Apple apps built around structured runtime evidence
-- a Swift-first CLI for code metrics and maintainability reviews
-- a macOS app for configuring and watching agent-driven development workflows
-- a backend for self-hosted media requests, notifications, and server-side automation
+- developer tools for Apple app validation, Swift code metrics and agent workflow orchestration
+- backend tooling for self-hosted media requests, notifications and server-side automation
 
 ## Home Server
 
