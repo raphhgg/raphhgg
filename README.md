@@ -7,11 +7,11 @@ Now focused on open source, exploring agentic coding workflows and building thin
 
 ## Things I'm Building
 
-- [CodexPill](https://github.com/raphhgg/CodexPill) — macOS menubar app for switching Codex accounts and tracking per-account limits
-- [Seal](https://github.com/raphhgg/Seal) — proof-oriented validation ecosystem for Apple apps
-- [Kite](https://github.com/raphhgg/kite) — Swift-first code metrics CLI for maintainability review and agent workflows
-- [Maestro](https://github.com/raphhgg/Maestro) — macOS app for configuring, running, and observing agent workflows
-- [heimdall](https://github.com/raphhgg/heimdall) — backend for self-hosted media request flows and notifications
+- [CodexPill](https://github.com/raphhgg/CodexPill) — macOS menu bar app for switching Codex accounts and keeping an eye on usage limits
+- [Seal](https://github.com/raphhgg/Seal) <sup>WIP</sup> — validation tooling for Apple apps built around structured runtime evidence
+- [Kite](https://github.com/raphhgg/kite) <sup>WIP</sup> — Swift-first code metrics CLI for maintainability reviews and agent workflows
+- [Maestro](https://github.com/raphhgg/Maestro) <sup>WIP</sup> — macOS control room for configuring and watching agent-driven development workflows
+- [heimdall](https://github.com/raphhgg/heimdall) <sup>WIP</sup> — backend for self-hosted media requests, notifications, and server-side automation
 
 ## Home Server
 
