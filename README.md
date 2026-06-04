@@ -7,11 +7,7 @@
 ## Things I'm Building
 
 - [CodexPill](https://github.com/raphhgg/CodexPill) — macOS menu bar app for switching Codex accounts and keeping an eye on usage limits
-
-_Work in progress:_
-
-- developer tools for Apple app validation, Swift code metrics and agent workflow orchestration
-- backend tooling for self-hosted media requests, notifications and server-side automation
+- _Maestro: work in progress. More soon._
 
 ## Home Server
 
