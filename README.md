@@ -7,7 +7,7 @@
 ## Things I'm Building
 
 - [CodexPill](https://github.com/raphhgg/CodexPill) — macOS menu bar app for switching Codex accounts and keeping an eye on usage limits
-- _Maestro: work in progress. More soon._
+- Maestro — work in progress. More soon.
 
 ## Home Server
 
