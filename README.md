@@ -6,8 +6,8 @@
 
 ## Things I'm Building
 
-- [CodexPill](https://github.com/raphhgg/CodexPill) — macOS menu bar app for switching Codex accounts and keeping an eye on usage limits
-- Maestro — work in progress. More soon.
+- [CodexPill](https://github.com/raphhgg/CodexPill) — macOS menu bar app for managing Codex accounts, tracking usage limits and working across local or remote setups
+- Maestro — early native app for shaping and orchestrating agentic coding workflows. More soon.
 
 ## Home Server
 
