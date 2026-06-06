@@ -6,7 +6,7 @@
 
 ## Things I'm Building
 
-- [CodexPill](https://github.com/raphhgg/CodexPill) — macOS menu bar app for managing Codex accounts, tracking usage limits and working across local or remote setups
+- [CodexPill](https://github.com/raphhgg/CodexPill) — macOS menu bar app for managing Codex accounts and tracking usage limits
 - Maestro — early native app for shaping and orchestrating agentic coding workflows. More soon.
 
 ## Home Server
@@ -39,7 +39,7 @@ Some of the products I’ve worked on professionally:
       <td><a href="https://apps.apple.com/us/app/immoweb/id420654412">Immoweb</a></td>
       <td>Belgium's leading real estate platform for buying, selling, and renting homes at scale.</td>
       <td align="center"><img src="assets/platform-icons/iphone.svg" alt="iPhone" title="iOS" /> <img src="assets/platform-icons/ipad.svg" alt="iPad" title="iPadOS" /></td>
-      <td nowrap>2022-Now</td>
+      <td nowrap>2022-2026</td>
       <td align="center"><a href="https://apps.apple.com/us/app/immoweb/id420654412"><img src="assets/app-icons/immoweb.webp" alt="Immoweb icon" width="40" /></a></td>
     </tr>
     <tr>
