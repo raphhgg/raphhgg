@@ -12,10 +12,10 @@ Tools I need for my own work and a way to explore agentic coding workflows in pr
   macOS menu bar app for managing Codex accounts and tracking usage limits
 
 - **Agent control surface** · `In development`<br>
-  Native macOS AI chat app, designed as the foundation for future workflow control, agent orchestration and harness integration
+  Native macOS AI chat app, designed to grow into workflow control, agent orchestration and harness integration
 
 - **Local agent harness** · `In development`<br>
-  Workflow infrastructure for planning, verification, VM-based visual QA, review briefs, proof receipts and handoffs
+  Workflow infrastructure for planning, verification, VM-based visual QA, proof receipts and handoffs
 
 ## Home Server
 
