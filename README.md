@@ -8,9 +8,14 @@
 
 Tools I need for my own work and a way to explore agentic coding workflows in practice.
 
-- [CodexPill](https://github.com/raphhgg/CodexPill) · Public — macOS menu bar app for managing Codex accounts and tracking usage limits
-- Agent control surface · In development — native macOS AI chat app, designed as the foundation for future workflow control, agent orchestration and harness integration
-- Local agent harness · In development — workflow infrastructure for planning, verification, VM-based visual QA, review briefs, proof receipts and handoffs
+- **[CodexPill](https://github.com/raphhgg/CodexPill)** · `Public`<br>
+  macOS menu bar app for managing Codex accounts and tracking usage limits
+
+- **Agent control surface** · `In development`<br>
+  Native macOS AI chat app, designed as the foundation for future workflow control, agent orchestration and harness integration
+
+- **Local agent harness** · `In development`<br>
+  Workflow infrastructure for planning, verification, VM-based visual QA, review briefs, proof receipts and handoffs
 
 ## Home Server
 
