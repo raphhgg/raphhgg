@@ -1,13 +1,16 @@
 # Hi, I'm Raphael 👋
 
-> _iOS engineer with 10 years of experience building Apple platform apps used by millions of people._
+> _Apple-platform engineer with 10 years of experience building iPhone, iPad and tvOS apps used by millions of people._
 >
-> _Now focused on open source, agentic coding workflows and building things._
+> _Now focused on open source, agentic coding workflows and independent product ideas._
 
 ## Things I'm Building
 
-- [CodexPill](https://github.com/raphhgg/CodexPill) — macOS menu bar app for managing Codex accounts and tracking usage limits
-- Maestro — early native app for shaping and orchestrating agentic coding workflows. More soon.
+Tools I need for my own work and a way to explore agentic coding workflows in practice.
+
+- [CodexPill](https://github.com/raphhgg/CodexPill) · Public — macOS menu bar app for managing Codex accounts and tracking usage limits
+- Agent control surface · In development — native macOS AI chat app, designed as the foundation for future workflow control, agent orchestration and harness integration
+- Local agent harness · In development — workflow infrastructure for planning, verification, VM-based visual QA, review briefs, proof receipts and handoffs
 
 ## Home Server
 
